@@ -3,16 +3,15 @@ A custom **Dynamic Maze Environment** built with **Gymnasium** and **Pygame**, w
 
 
 
-
-
-
+![23e7d60e-2ca0-498f-9a97-24e0799bb657](https://github.com/user-attachments/assets/bac4f529-5c68-4b7b-b838-e0219af97ce3)
 
 
 
 
 
 # Features
-# Dynamic Maze: Every episode generates a brand-new maze with randomly placed bombs, death pits, and rewards, keeping the challenge fresh and unpredictable.
+# Dynamic Maze
+Every episode generates a brand-new maze with randomly placed bombs, death pits, and rewards, keeping the challenge fresh and unpredictable.
 # Obstacles & Hazards
     -Bombs: Instant game over with a -20 penalty.
     -Death Pits: Fall in and it’s a -50 penalty, plus immediate game over.
